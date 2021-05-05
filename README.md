@@ -1,8 +1,7 @@
 <h1>Digital Innovation One - Prática .NET</h1>
 
 <h2>💻 Projeto</h2>
-🚀 Projeto de estudo realizado no Bootcamp LocalizaLabs, Base para Testes com .Net Core aplicando o conceito TDD.
-
+<p>Projeto de estudo realizado no Bootcamp LocalizaLabs, Base para Testes com .Net Core aplicando o conceito TDD.</p>
 <p>Testes de Unidade</p>
 <p>Testes de Integração</p>
 <p>Testes Automatizados</p>
