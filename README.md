@@ -3,16 +3,16 @@
 <h2>💻 Projeto</h2>
 🚀 Projeto de estudo realizado no Bootcamp LocalizaLabs, Base para Testes com .Net Core aplicando o conceito TDD.
 
-Testes de Unidade
-Testes de Integração
-Testes Automatizados
+<p>Testes de Unidade</p>
+<p>Testes de Integração</p>
+<p>Testes Automatizados</p>
 
 <h3>✅ Tecnologias Utilizadas:</h3>
 
-.Net Core 3.1
-ASP.NET Core MVC
-EntityFramework
-AutoMapper
+- .Net Core 3.1
+- ASP.NET Core MVC
+- EntityFramework
+- AutoMapper
 
 <h3>✅ Contato</h3>
 
